@@ -1,0 +1,5 @@
+--TriggerEvent('chat:addSugestion', '/me', '/me TEXT', {})
+TriggerEvent('chat:addSugestion', '/do', '/do TEXT', {})
+TriggerEvent('chat:addSugestion', '/doc', '/doc NUMBER', {})
+TriggerEvent('chat:addSugestion', '/try', '/try', {})
+TriggerEvent('chat:addSugestion', '/police', '/police TEXT', {})
